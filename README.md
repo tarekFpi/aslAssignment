@@ -1,16 +1,22 @@
-# getx,mvc,dio,firebase aut,todo,api fetch
+# getx,mvc,dio,firebase auth,todo,api fetch
 
-A new Flutter project.
 
-## Getting Started
+## Screenshort
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/4b524201-6822-4bcd-b2e0-24f4f86fe6ad)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/6d279f47-5e83-41fb-ac7e-4cef61012456)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Uploading image.png…]()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/adfbb07b-c3d0-482d-9a8b-32b84a6ba908)
+
+![image](https://github.com/user-attachments/assets/1b623609-f1f6-4397-a179-c0bf8dde9bab)
+
+![image](https://github.com/user-attachments/assets/1cda60d9-0a82-4d86-b671-62af7ad43bd8)
+
+
+
+
+
+ 
